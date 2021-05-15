@@ -1,8 +1,8 @@
 {
     "compilerOptions": {
         "baseUrl": ".",
-        "module": "es2015",
-        "target": "es5",
+        "module": "esnext",
+        "target": "es2015",
         "experimentalDecorators": true,
         "sourceMap": true,
         "outDir": "dist",
